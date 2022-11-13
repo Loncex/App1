@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="inicio">Inicio</string>
+    <string name="registro">Registro</string>
+    <string name="color">Colores</string>
+    <string name="config">Config</string>
+
+</resources>
